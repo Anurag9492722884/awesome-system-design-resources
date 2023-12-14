@@ -1,12 +1,13 @@
 # Awesome System Design Resources
 This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
-#Overall practice+Rev:
--[work@Tech](https://workat.tech/system-design)
 
-#Youtube Channels:
--[Gaurav Sen](https://www.youtube.com/@gkcs/featured)
--[Tushar Roy](https://www.youtube.com/@tusharroy2525)
--[Coding Decoded](https://www.youtube.com/@CodeWithSunchitDudeja)
+## Overall practice+Rev:
+- [work@Tech](https://workat.tech/system-design)
+
+# Youtube Channels:
+- [Gaurav Sen](https://www.youtube.com/@gkcs/featured)
+- [Tushar Roy](https://www.youtube.com/@tusharroy2525)
+- [Coding Decoded](https://www.youtube.com/@CodeWithSunchitDudeja)
 
 
 ## System Design Fundamentals
